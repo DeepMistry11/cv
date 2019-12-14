@@ -1,0 +1,23 @@
+body {
+  background-color: #dff6f0;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #000000;
+  width: 5%;
+}
+h1 {
+  color: #10316b;
+  text-shadow: 1.5px 1.5px #e25822;
+}
+h2 {
+  color: #10316b;
+}
+h3 {
+  color: #10316b;
+}
+
+.profile {
+  border-radius: 100%;
+}
